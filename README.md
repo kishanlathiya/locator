@@ -1,16 +1,5 @@
 # pr5_2_locator
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://user-images.githubusercontent.com/113701661/203033748-2a7061ef-ff94-42d3-9936-6c99934c40d8.png" height = 500 width = 250>
+<img src = "https://user-images.githubusercontent.com/113701661/203033821-3e4f84a8-c718-4244-b728-e37f82ba3ea7.png" height = 500 width = 250>
+<img src = "https://user-images.githubusercontent.com/113701661/203033891-d7f10f76-978e-4828-b62d-8d23d5c0b726.png" height = 500 width = 250>
